@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Build artifacts
+issue-tracker
+issue-tracker-*
+coverage.out
+
+# Docker
+Dockerfile
+.dockerignore
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+tmp/
+temp/
+
+# OS specific files
+.DS_Store
+*.swp
+*.swo 
